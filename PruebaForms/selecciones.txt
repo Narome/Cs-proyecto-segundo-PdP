@@ -1,0 +1,7 @@
+(Fecha y Hora: 17/8/2024 08:56:11):
+Datos de Cliente:
+Juan Pérez juan.perez@example.com +54 9 11 1234-5678
+
+Autos vendidos:
+Toyota Corolla 2022 23000 8
+
